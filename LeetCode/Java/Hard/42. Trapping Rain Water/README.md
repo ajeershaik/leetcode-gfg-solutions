@@ -9,7 +9,7 @@ Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 47.9 MB
+- **Memory:** 47.6 MB
 
 ---
 
