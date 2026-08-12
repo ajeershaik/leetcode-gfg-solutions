@@ -22,6 +22,9 @@ class Solution {
             }
         }
         System.out.println(max);
+        if(max == Integer.MIN_VALUE){
+            return 0;
+        }
         return max;
     }
 }
