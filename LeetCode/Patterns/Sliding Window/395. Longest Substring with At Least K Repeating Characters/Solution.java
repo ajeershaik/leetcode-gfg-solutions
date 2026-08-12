@@ -2,6 +2,9 @@ class Solution {
     public int longestSubstring(String s, int k) {
         HashMap<Character,Integer> hm = new HashMap<>();
         int n = s.length();
+        if(n < k){
+            return 0;
+        }
         for(int i=0;i<n;i++){
             hm.put(s.charAt(i),hm.getOrDefault(s.charAt(i),0)+1);
         }
