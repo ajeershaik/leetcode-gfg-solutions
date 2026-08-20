@@ -3,7 +3,7 @@ class Solution {
 
         int n = nums.length;
         int c = 0;
-        int prev = In;
+        int prev = -1;
         for(int i=0;i<n;i++){
             if(prev != nums[i]){
                 nums[c] = nums[i];
