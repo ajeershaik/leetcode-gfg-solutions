@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
 
-select customer_id from(
-    select customer_id,count(*) as total_buys from customer group by customer_id) as t
-where total_buys >= (select count(p.product_key) from product p);
+
+select customer_id from customer 
+group by customer_id having count(distinct product_key) = (select count(*) from product);
