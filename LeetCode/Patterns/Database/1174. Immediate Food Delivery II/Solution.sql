@@ -4,7 +4,7 @@
     if(order_date  = customer_pref_delivery_date,1,0)
 )as totaL_imm,count(order_date) as total_orders from delivery;*/
 
-select sum(
+select round(sum(
     case 
         when order_date = customer_pref_delivery_date then 1
         else 0
