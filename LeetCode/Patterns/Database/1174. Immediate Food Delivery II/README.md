@@ -1,6 +1,6 @@
 # 📝 1174. Immediate Food Delivery II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=top-sql-50)
+🔗 [Problem Link](https://leetcode.com/problems/immediate-food-delivery-ii)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
