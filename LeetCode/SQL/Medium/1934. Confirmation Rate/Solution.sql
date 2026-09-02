@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 
-select s.user_id,sum(
+select s.user_id,rounsum(
     Case 
         when action = 'confirmed'  then 1
         else 0
