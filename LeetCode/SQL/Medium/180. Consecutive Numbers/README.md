@@ -1,6 +1,6 @@
 # 📝 180. Consecutive Numbers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/consecutive-numbers/)
+🔗 [Problem Link](https://leetcode.com/problems/consecutive-numbers)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
