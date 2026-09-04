@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select distinct p.product_id,
+/*select distinct p.product_id,
 if(t.np>=0,t.np,10)as price
  from products p left join 
     (select product_id,new_price,change_date,max(new_price) as np from products
