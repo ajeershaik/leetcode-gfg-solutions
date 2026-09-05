@@ -1,6 +1,6 @@
 # 📝 176. Second Highest Salary (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/second-highest-salary/)
+🔗 [Problem Link](https://leetcode.com/problems/second-highest-salary/?envType=study-plan-v2&envId=top-sql-50)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
