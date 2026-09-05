@@ -1,6 +1,6 @@
 # 📝 176. Second Highest Salary (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/second-highest-salary/?envType=study-plan-v2&envId=top-sql-50)
+🔗 [Problem Link](https://leetcode.com/problems/second-highest-salary/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
@@ -8,8 +8,8 @@
 Database
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 256 ms
+- **Memory:** 0B
 
 ---
 
