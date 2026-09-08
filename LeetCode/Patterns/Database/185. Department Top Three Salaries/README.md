@@ -1,6 +1,6 @@
 # 📝 185. Department Top Three Salaries (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/department-top-three-salaries/?envType=problem-list-v2&envId=m8baczxh)
+🔗 [Problem Link](https://leetcode.com/problems/department-top-three-salaries/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
