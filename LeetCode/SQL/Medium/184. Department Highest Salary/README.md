@@ -1,6 +1,6 @@
 # 📝 184. Department Highest Salary (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/department-highest-salary/?envType=problem-list-v2&envId=m8baczxh)
+🔗 [Problem Link](https://leetcode.com/problems/department-highest-salary/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
