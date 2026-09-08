@@ -13,7 +13,7 @@ select dd,client_role,client_ban,driver_ban,driver_role,status,
         users u1 on t1.client_id = u1.users_id
         left join users u2 
         on t1.driver_id = u2.users_id
-    )as tab where client_ban = "no" and driver_ban = "no" and datediff('2013-10-03');
+    )as tab where client_ban = "no" and driver_ban = "no" and datediff('2013-10-03',t1.request_at)>=0;
 
 
 
