@@ -1,6 +1,6 @@
 # 📝 585. Investments in 2016 (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/investments-in-2016/?envType=study-plan-v2&envId=top-sql-50)
+🔗 [Problem Link](https://leetcode.com/problems/investments-in-2016/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
