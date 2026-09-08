@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 
-select dd as 'Day',Cancellation_Rate as 'Cancellation Rate' from (
+/*select dd as 'Day',Cancellation_Rate as 'Cancellation Rate' from (
     select dd,client_role,client_ban,driver_ban,driver_role,status,
     round(sum(
         case when status != "completed" then 1
@@ -16,4 +16,4 @@ select dd as 'Day',Cancellation_Rate as 'Cancellation Rate' from (
         left join users u2 
         on t1.driver_id = u2.users_id
     )as tab where client_ban = "no" and driver_ban = "no" 
-)as tab2 group by dd;
+)as tab2 group by dd;*
