@@ -1,6 +1,6 @@
 # 📝 262. Trips and Users (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/trips-and-users/?envType=problem-list-v2&envId=m8baczxh)
+🔗 [Problem Link](https://leetcode.com/problems/trips-and-users/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
@@ -8,8 +8,8 @@
 Database
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 588 ms
+- **Memory:** 0B
 
 ---
 
