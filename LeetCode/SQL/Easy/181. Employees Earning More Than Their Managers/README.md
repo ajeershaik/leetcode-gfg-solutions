@@ -1,6 +1,6 @@
 # 📝 181. Employees Earning More Than Their Managers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/employees-earning-more-than-their-managers)
+🔗 [Problem Link](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
@@ -8,8 +8,8 @@
 Database
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 485 ms
+- **Memory:** 0B
 
 ---
 
