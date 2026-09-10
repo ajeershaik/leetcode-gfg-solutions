@@ -11,7 +11,8 @@ class Solution {
                     return 0;
                 }
                 else{
-                    return Integer.valueOf(String.valueOf(result));
+                    int res = new Integer(result.toString());
+                    return res;
                 }
             }
             else{
@@ -26,6 +27,7 @@ class Solution {
                 }
             }
         }
-        return Integer.valueOf(String.valueOf(result));
+        int res = new Integer(result.toString());
+        return res;
     }
 }
