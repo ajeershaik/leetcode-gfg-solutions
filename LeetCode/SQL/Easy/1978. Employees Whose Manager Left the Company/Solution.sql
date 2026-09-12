@@ -5,4 +5,4 @@ select employee_id from
 natural join employees m  where salary <30000
 )as t where manager_id not in (
     select employee_id from employees
-);
+) order by employee_id;
