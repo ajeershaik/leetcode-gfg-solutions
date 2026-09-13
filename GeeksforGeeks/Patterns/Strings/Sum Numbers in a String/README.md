@@ -1,0 +1,37 @@
+# 📝 Sum Numbers in a String (GeeksforGeeks)
+
+🔗 [Problem Link](https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1)
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
+
+### 💡 Tags
+Strings
+
+### 🚀 Performance
+- **Runtime:** Successfully Evaluated
+- **Memory:** N/A
+
+---
+
+### 📜 Problem Description
+
+Given a string  **s** containing alphanumeric characters. You have to calculate the sum of all the numbers present in the string.
+
+**Examples:**
+
+```
+Input: s = "1abc23"
+Output: 24
+Explanation: 1 and 23 are numbers in the string which is added to get the sum as 24.
+
+```
+
+```
+Input: s = "geeks4geeks"
+Output: 4
+Explanation: 4 is the only number, so the sum is 4.
+```
+
+**Constraints:** 
+1 ≤ |s|≤ 105
+The sum of Numbers ≤ 105
