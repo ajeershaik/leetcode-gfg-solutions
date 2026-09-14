@@ -1,4 +1,4 @@
-select distinct machine_id,round(avg(tot_diff/2) over(partition by machine_id),3)as processing_time from(
+select distinct machine_id,round(tot_diff/count(machine_id) over(partition by machine_id),3)as processing_time from(
     select machine_id,sum(end_time)over(partition by machine_id) - sum(start_time) over(partition by machine_id)as tot_diff
 from(
 select machine_id,process_id,round(sum(
