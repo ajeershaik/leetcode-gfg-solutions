@@ -1,6 +1,6 @@
 # 📝 1731. The Number of Employees Which Report to Each Employee (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee)
+🔗 [Problem Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/?envType=problem-list-v2&envId=m8baczxh)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
