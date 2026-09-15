@@ -1,6 +1,6 @@
 # 📝 1407. Top Travellers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/top-travellers)
+🔗 [Problem Link](https://leetcode.com/problems/top-travellers/?envType=problem-list-v2&envId=m8baczxh)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
